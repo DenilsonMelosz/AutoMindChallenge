@@ -1,4 +1,4 @@
-#Etapa Case de Desenvolvimento em C# e .NET
+# Etapa Case de Desenvolvimento em C# e .NET
 
 ## Cadastro de Usuários
 
@@ -42,6 +42,6 @@ Conforme Solicitado este é um projeto simples em C# que permite cadastrar, list
 
 ## Autor
 - Nome: Denilson Melo
-- GitHub: [seu-usuario](https://github.com/DenilsonMelosz)
+- GitHub: [DenilsonMelosz](https://github.com/DenilsonMelosz)
 
 
